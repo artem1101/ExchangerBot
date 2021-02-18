@@ -1,0 +1,6 @@
+aiogram==2.9.2
+numpy==1.17.4
+matplotlib==3.2.1
+pyTelegramBotAPI==3.7.3
+requests==2.7.0
+vedis==0.7.1
